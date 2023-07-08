@@ -1,1 +1,1 @@
-# spam_classy
+# spam_classifier
